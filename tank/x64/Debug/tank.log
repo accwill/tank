@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\A\Desktop\tank\源码\tank\Game.cpp(191,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\A\Desktop\tank\源码\tank\Game.cpp(430,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\A\Desktop\tank\源码\tank\Game.cpp(431,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  tank.vcxproj -> C:\Users\A\Desktop\tank\源码\x64\Debug\tank.exe
